@@ -1,6 +1,6 @@
 Hi! 
 
-I’m currently an AI & Software Engineer at @Avvale, and I do freelance too, plus heavily active on Twitter/X sharing my progress and story. 
+I’m currently an AI & Software Engineer at @Avvale, and I do freelance too.
 
 Currently based in Madrid, but I was born and raised in Isla de Margarita, Venezuela.
 
