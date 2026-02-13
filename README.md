@@ -4,7 +4,7 @@ I’m currently an AI & Software Engineer at @Avvale, and I do freelance too.
 
 Currently based in Madrid, but I was born and raised in Isla de Margarita, Venezuela.
 
-You can see more of me [here](https://ivan-caamano.vercel.app/en)!
+You can see more of me [here]((https://ivancaamano.dev/en))!
 
 
 
